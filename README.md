@@ -1,5 +1,5 @@
 # About Me:
-Inquisitive student of Computer Science Engineering with an insatiable thirst for knowledge. <br>Fueled by a drive to make a positive impact, <br>I am constantly seeking opportunities to grow, innovate, and contribute to the ever-evolving world of AI
+Inquisitive student of Computer Science Engineering with an insatiable thirst for knowledge. <br>Fueled by a drive to make a positive impact, <br>I am constantly seeking opportunities to grow, innovate, and contribute to the ever-evolving world of AI (im batman)
 
 
 ## 🌐 Socials:
